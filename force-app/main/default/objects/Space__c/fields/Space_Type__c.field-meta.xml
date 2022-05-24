@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Space_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Space Type</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>ATM</fullName>
+                <default>false</default>
+                <label>ATM</label>
+            </value>
+            <value>
+                <fullName>Telemarketing</fullName>
+                <default>false</default>
+                <label>Telemarketing</label>
+            </value>
+            <value>
+                <fullName>Kids Play</fullName>
+                <default>false</default>
+                <label>Kids Play</label>
+            </value>
+            <value>
+                <fullName>Food Court</fullName>
+                <default>false</default>
+                <label>Food Court</label>
+            </value>
+            <value>
+                <fullName>Groceries</fullName>
+                <default>false</default>
+                <label>Groceries</label>
+            </value>
+            <value>
+                <fullName>Theatre</fullName>
+                <default>false</default>
+                <label>Theatre</label>
+            </value>
+            <value>
+                <fullName>Advertisement</fullName>
+                <default>false</default>
+                <label>Advertisement</label>
+            </value>
+            <value>
+                <fullName>Automobile company</fullName>
+                <default>false</default>
+                <label>Automobile company</label>
+            </value>
+            <value>
+                <fullName>Retail</fullName>
+                <default>false</default>
+                <label>Retail</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
